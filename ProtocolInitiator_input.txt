@@ -1,0 +1,22 @@
+y
+DOB
+3
+y
+Salary
+2
+n
+n
+y
+Identity Certificate,Income Certificate
+n
+n
+n
+y
+n
+n
+y
+n
+3
+2
+3
+2

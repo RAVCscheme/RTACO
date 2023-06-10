@@ -1,0 +1,8 @@
+Identity Certificate
+Parth
+1999-06-15
+Income Certificate
+500000
+Loan Credential
+Identity Certificate,Income Certificate
+1
